@@ -1,0 +1,22 @@
+.lolz {
+    height: 150px;
+    width: 150px;
+    margin-top: 20%;
+    margin-left: 40%;
+    border-radius: 10px;
+    background-color: #d20000;
+}
+
+.click:hover {
+    cursor: pointer;
+}
+
+.click {
+    background-color: blue;
+    height: inherit;
+    width: 70px;
+    color: white;
+    border-radius: 0;
+    margin-left: 46%;
+    margin-top: 0%;
+}
